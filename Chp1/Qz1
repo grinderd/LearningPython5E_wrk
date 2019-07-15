@@ -1,9 +1,14 @@
 #What are the six main reason s that people choose to use Python?
-
+#1. Developer Productivity ++
+#2. Program Portability
+#3. Support Libraries
+#4. Component integration
+#5. Quality Software ++
+#6. Enjoyment of coding
 
 
 #Name four notable companies or organizations using Python today?
-# Google search, youtube video site
+# Google search, youtube video site, JPMC, Netflix, Yelp
 
 
 
@@ -13,12 +18,20 @@
 
 
 #What can you do with Python?
+#System Programing - Works with operating system services
+#GUIs -
+#Internet Scripting
+#Component Integration - Imbedding into C/C++ and integrates C/C++
+# - Can be imbedded on product for "on-site" customization
+#Database Programing -
+#Rapid prototyping
+#Numeric/Scientific programming
 
 
 
 
 #What is the significance of the python import this statement?
-
+#This is apparently an easter egg
 
 
 
